@@ -56,7 +56,7 @@ module.exports = {
 // archivo: app.js
 
 // Importar el módulo completo
-const matematicas = require('./matematicas');
+const matematicas = require('./Task1');
 
 // Usar las funciones exportadas
 console.log('2 + 3 =', matematicas.sumar(2, 3));
